@@ -1,0 +1,19 @@
+Roll-Number 	Name
+
+203050014		Pranjal Saini
+203050043		Harsh Peswani
+
+How to run:-
+
+kv_client:-
+	inside kvclient directory use make command to compile
+	use make run to execute the client
+
+kv_server:-
+	inside kvserver directory use use make command to compile
+	use make run to start the server 
+
+References-
+https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
+
+
